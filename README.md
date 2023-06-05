@@ -1,9 +1,7 @@
-### Hi there 👋
-
-<!-- Đặt hình ảnh hoặc banner ở đầu Readme -->
+<!-- Place an image or banner at the top of the Readme -->
 ![Header](https://example.com/banner.png)
 
-<!-- Hiển thị các badge cho kỹ năng và chứng chỉ -->
+<!-- Display badges for skills and certifications -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![React](https://img.shields.io/badge/-React-blue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blueviolet)
@@ -16,32 +14,22 @@
 ![English](https://img.shields.io/badge/-English-brightgreen)
 ![Vietnamese](https://img.shields.io/badge/-Vietnamese-yellowgreen)
 
-<!-- Hiển thị hình ảnh hoặc GIF đại diện cho các dự án -->
+<!-- Display images or GIFs representing projects -->
 ![Project 1](https://example.com/project1.png)
 ![Project 2](https://example.com/project2.gif)
 
-<!-- Hiển thị thông tin về bản thân -->
-### Giới thiệu bản thân
+<!-- Introduce yourself -->
+### Introduction
 
-Xin chào! Tôi là một Bridge Software Engineer (BRSE) và Web Developer đam mê trau dồi kỹ năng và xây dựng các dự án sáng tạo. Tôi đang hướng tới trở thành một Product Manager (PM) thành công.
+Hello! I am a passionate Bridge Software Engineer (BRSE) and Web Developer who is dedicated to enhancing skills and building innovative projects. I aim to become a successful Product Manager (PM).
 
-- Kỹ năng lập trình: JavaScript, TypeScript, ReactJS, MySQL, InfluxDB, Jenkins, TestProject, Node.js, C, C++, Arduino, Matlab, ...
-- Kỹ năng ngôn ngữ: Tiếng Hàn (Topik 6), Tiếng Anh (~800 Toeic), và Tiếng Việt (bản xứ).
+- Programming skills: JavaScript, TypeScript, ReactJS, MySQL, InfluxDB, Jenkins, TestProject, Node.js, C, C++, Arduino, Matlab, ...
+- Language skills: Korean (Topik 6), English (~800 TOEIC), and Vietnamese (native).
 
-Tôi đặc biệt quan tâm đến việc kết hợp công nghệ và quản lý dự án để tạo ra giải pháp đáng tin cậy và hiệu quả.
+I am particularly interested in combining technology and project management to create reliable and efficient solutions.
 
-<!-- Hiển thị thông tin liên lạc và các liên kết xã hội -->
-### Liên hệ
+<!-- Display contact information and social links -->
+### Contact
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Website: [Your Personal Website](https://www.yourwebsite.com)
-
-<!-- Hiển thị bảng thông tin về dự án và các công trình -->
-### Dự án và Công trình
-
-| Tên Dự án       | Mô tả           | Ngôn ngữ         | Kỹ năng |
-| -------------- | --------------- | --------------- | ------- |
-| Project 1      | Mô tả dự án 1   | JavaScript, CSS | React   |
-| Project 2      | Mô tả dự án 2   | TypeScript
+- Email: trungpm.bkk54@gmail.com
 
