@@ -12,9 +12,6 @@
 ![English](https://img.shields.io/badge/-English-brightgreen)
 ![Vietnamese](https://img.shields.io/badge/-Vietnamese-yellowgreen)
 
-<!-- Display images or GIFs representing projects -->
-![Project 1](https://example.com/project1.png)
-![Project 2](https://example.com/project2.gif)
 
 <!-- Introduce yourself -->
 ### Introduction
