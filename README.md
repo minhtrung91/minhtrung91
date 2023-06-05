@@ -1,5 +1,3 @@
-<!-- Place an image or banner at the top of the Readme -->
-![Header] (https://example.com/banner.png)
 
 <!-- Display badges for skills and certifications -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
